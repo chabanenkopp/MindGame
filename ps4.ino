@@ -28,3 +28,4 @@ void loop() {
   play_game(code);
   free(code);
 }
+

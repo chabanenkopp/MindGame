@@ -316,3 +316,4 @@ void play_game(char * secret)
     gameEnd(false, secret, 10, history);
 }
 
+

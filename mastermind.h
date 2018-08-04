@@ -81,3 +81,4 @@ void render_history(char* secret, char** history, const int entry_nr);
  */
 void get_score(const char* secret, const char* guess, int* peg_a, int* peg_b);
 #endif
+
